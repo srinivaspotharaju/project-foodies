@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://tomato-backend-vrjl.onrender.com'
+export const url = 'https://project-foodies.onrender.com'
