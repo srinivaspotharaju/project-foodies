@@ -1,6 +1,6 @@
 # project-foodies
 
-# 🍅 Tomato - Food Ordering Web App
+# 🍅 Foodies - Food Ordering Web App
 
 A full-stack food ordering web application built using the **MERN Stack (MongoDB, Express.js, React, Node.js)** with **Stripe** integration for seamless online payments.
 
